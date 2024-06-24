@@ -1,0 +1,25 @@
+G:\My Drive\ESOFT\ESOFT Degree\AD\Assignment\ABC Traders\ABC Traders\bin\Debug\ABC Traders.exe.config
+G:\My Drive\ESOFT\ESOFT Degree\AD\Assignment\ABC Traders\ABC Traders\bin\Debug\ABC Traders.exe
+G:\My Drive\ESOFT\ESOFT Degree\AD\Assignment\ABC Traders\ABC Traders\bin\Debug\ABC Traders.pdb
+G:\My Drive\ESOFT\ESOFT Degree\AD\Assignment\ABC Traders\ABC Traders\obj\Debug\ABC Traders.csproj.AssemblyReference.cache
+G:\My Drive\ESOFT\ESOFT Degree\AD\Assignment\ABC Traders\ABC Traders\obj\Debug\ABC_Traders.Properties.Resources.resources
+G:\My Drive\ESOFT\ESOFT Degree\AD\Assignment\ABC Traders\ABC Traders\obj\Debug\ABC Traders.csproj.GenerateResource.cache
+G:\My Drive\ESOFT\ESOFT Degree\AD\Assignment\ABC Traders\ABC Traders\obj\Debug\ABC Traders.csproj.CoreCompileInputs.cache
+G:\My Drive\ESOFT\ESOFT Degree\AD\Assignment\ABC Traders\ABC Traders\obj\Debug\ABC Traders.exe
+G:\My Drive\ESOFT\ESOFT Degree\AD\Assignment\ABC Traders\ABC Traders\obj\Debug\ABC Traders.pdb
+G:\My Drive\ESOFT\ESOFT Degree\AD\Assignment\ABC Traders\ABC Traders\obj\Debug\ABC_Traders.customerDashboard.resources
+G:\My Drive\ESOFT\ESOFT Degree\AD\Assignment\ABC Traders\ABC Traders\obj\Debug\ABC_Traders.loginPage.resources
+G:\My Drive\ESOFT\ESOFT Degree\AD\Assignment\ABC Traders\ABC Traders\obj\Debug\ABC_Traders.test.resources
+G:\My Drive\ESOFT\ESOFT Degree\AD\Assignment\ABC Traders\ABC Traders\obj\Debug\ABC_Traders.customerRegistration.resources
+G:\My Drive\ESOFT\ESOFT Degree\AD\Assignment\ABC Traders\ABC Traders\obj\Debug\ABC_Traders.editProfile.resources
+G:\My Drive\ESOFT\ESOFT Degree\AD\Assignment\ABC Traders\ABC Traders\obj\Debug\ABC_Traders.manageCustomerDetails.resources
+G:\My Drive\ESOFT\ESOFT Degree\AD\Assignment\ABC Traders\ABC Traders\obj\Debug\ABC_Traders.carPartsOrder.resources
+G:\My Drive\ESOFT\ESOFT Degree\AD\Assignment\ABC Traders\ABC Traders\obj\Debug\ABC_Traders.orderCustomer.resources
+G:\My Drive\ESOFT\ESOFT Degree\AD\Assignment\ABC Traders\ABC Traders\obj\Debug\ABC_Traders.manageCarParts.resources
+G:\My Drive\ESOFT\ESOFT Degree\AD\Assignment\ABC Traders\ABC Traders\obj\Debug\ABC_Traders.manageCustomerOrder.resources
+G:\My Drive\ESOFT\ESOFT Degree\AD\Assignment\ABC Traders\ABC Traders\obj\Debug\ABC_Traders.orderStatusCustomerView.resources
+G:\My Drive\ESOFT\ESOFT Degree\AD\Assignment\ABC Traders\ABC Traders\obj\Debug\ABC_Traders.orderStatusReport.resources
+G:\My Drive\ESOFT\ESOFT Degree\AD\Assignment\ABC Traders\ABC Traders\obj\Debug\ABC_Traders.inventoryReports.resources
+G:\My Drive\ESOFT\ESOFT Degree\AD\Assignment\ABC Traders\ABC Traders\obj\Debug\ABC_Traders.carpartsDashboardSearch.resources
+G:\My Drive\ESOFT\ESOFT Degree\AD\Assignment\ABC Traders\ABC Traders\obj\Debug\ABC_Traders.adminDashboardLoad.resources
+G:\My Drive\ESOFT\ESOFT Degree\AD\Assignment\ABC Traders\ABC Traders\obj\Debug\ABC_Traders.PrintBill.resources
